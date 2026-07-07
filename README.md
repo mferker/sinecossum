@@ -10,6 +10,10 @@ Academically-focused Fourier harmonic summation visualization tool, adapted to P
 
 ## Codebase
 - The entire application is contained within one py file for convenience.
+- [Application](http://3.20.46.61/) currently running on an AWS Lightsail instance (Ubuntu 22.04)
 
 ## UX
 - The application works best in a horizontal desktop experience. It also works on mobile but the CSS is not optimized for it.
+- The application is best suited for an educational exploration rather than true professional harmonic analysis.
+  * The amplitude, phase, frequency and A0 only accept integers rather than fractions.
+  * The 3D plot uses Plot.ly's camera angle capabilities to facilitate more detailed inspection of a waveform in a non-flattened presentation, but it is not a true representation of phase.
