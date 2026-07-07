@@ -1,6 +1,6 @@
 
 # SineCosSum v1.0
-Academically-focused Fourier harmonic summation visualization tool, adapted to Python from original application written in Matlab by EE261 students over the years
+Academically-focused Fourier harmonic summation visualization tool, adapted to Python from original application written in Matlab by EE261 students Michelle Daniels, Daniel Kopeinigg and Aqib Ahmed Syed over the years.
 #### Contact mferker@stanford.edu
 
 ## Tech Stack
